@@ -31,3 +31,38 @@
 
 # Props
 - Passing props like just like passing arguments in function.
+
+
+# food project desgin
+/**
+ * Header
+ * - Logo    
+ * - navlist
+ * 
+ * Body
+ * - Seacrh
+ * - RestaurantsContainer
+ *   -ReastaurantCard
+ *      -img
+ *      -rating, cuisine, delery tie
+ * 
+ * Footer
+ * - Copyright
+ * - Links
+ * - Address
+ * - Contact 
+ */
+
+
+ # Two types of export and import
+- default export/import
+    - export default Component_name
+    - import Component_name from "file_path"
+- Named export/import
+    - export const Component = {}/""/[]
+    - import {Component} from "file_path"
+
+# React Hooks
+- (Normal Js utility function)
+- useState() - Superpower state varible in react
+- useEffect() - 
