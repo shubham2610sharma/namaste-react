@@ -25,6 +25,9 @@
 
 
 # components
-- use function components is normal js function which return some JSX code.
+- function components : is normal js function which return some JSX code.
 - component-composition: coomposing 2 components in one another.
 - BABEL : is covert JSX code into React
+
+# Props
+- Passing props like just like passing arguments in function.
